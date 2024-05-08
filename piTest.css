@@ -1,3 +1,6 @@
 .resize-top-bottom-container + div {
   background: #E7EAEE !important;
 }
+[chart-container-uuid~="fd8f85e3-4a87-477c-a9ac-5d084decb6b1"] {
+  visibility: hidden;
+}
