@@ -5,6 +5,6 @@
   visibility: hidden;
 }
 
-.highcharts-series highcharts-series-0 highcharts-funnel-series highcharts-tracker{
+.highcharts-series.highcharts-series-0.highcharts-funnel-series.highcharts-tracker{
   transform: scaleX(0.6);
 }
