@@ -1,1 +1,3 @@
-
+.resize-top-bottom-container + div {
+  background: #E7EAEE !Important;
+}
