@@ -8,3 +8,7 @@
 .highcharts-series.highcharts-series-0.highcharts-funnel-series.highcharts-tracker{
   transform: scaleX(0.6);
 }
+
+.paper-button.multi-icons-button .multi-icons-button__icon {
+      position: relative !important;
+}
