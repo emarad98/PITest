@@ -1,7 +1,7 @@
 .resize-top-bottom-container + div {
   background: #E7EAEE !important;
 }
-[chart-container-uuid~="fd8f85e3-4a87-477c-a9ac-5d084decb6b1"], #chart-area__1c367820-4ed9-40e6-8516-5b369315c0c3, [chart-container-uuid~="e6f53e2b-d4ce-4520-a322-bcd2630dccea"], {
+[chart-container-uuid~="fd8f85e3-4a87-477c-a9ac-5d084decb6b1"], #chart-area__1c367820-4ed9-40e6-8516-5b369315c0c3, [chart-container-uuid~="e6f53e2b-d4ce-4520-a322-bcd2630dccea"] {
   visibility: hidden;
 }
 
