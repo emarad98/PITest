@@ -12,3 +12,8 @@
 .paper-button.multi-icons-button .multi-icons-button__icon {
       position: relative !important;
 }
+.fa-undo {
+   position: relative;
+    left: 45px;
+    font-size: 17px;
+}
