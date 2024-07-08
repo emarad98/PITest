@@ -1,5 +1,4 @@
-<script>
-    
+
 console.log("echo");
 
 (function(apiKey){
@@ -37,6 +36,3 @@ console.log("echo");
             }
         });
 })('ed8a8aed-fa53-46e1-4196-399f3c543fc1');
-
-</script>
-
