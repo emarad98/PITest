@@ -1,4 +1,3 @@
-<script>
 (function(apiKey){
     (function(p,e,n,d,o){var v,w,x,y,z;o=p[d]=p[d]||{};o._q=o._q||[];
     v=['initialize','identify','updateOptions','pageLoad','track'];for(w=0,x=v.length;w<x;++w)(function(m){
@@ -34,4 +33,3 @@
             }
         });
 })('ed8a8aed-fa53-46e1-4196-399f3c543fc1');
-</script>
